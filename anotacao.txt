@@ -1,0 +1,14 @@
+git init (inicializa o repositório)
+git status (certifica o status da linha do tempo)
+git add ladingpage.html (adiciona um arquivo na história)
+git commit -m "ladingpage created" (grava um ponto na história)
+git log (mostra todos os commits que foram gravados na linha do tempo)
+git show (mostra o que está sendo feito em algum ponto da história)
+
+Tecla Q sai
+
+commitar = gravar na linha do tempo (gravar no repositório)
+
+git show = se nao especifica, pega o último
+
+master (ramificação principal do código)
